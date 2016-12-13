@@ -6,7 +6,7 @@
 
 [NGONewsTW推特帳號起源與操作說明](http://self.jxtsai.info/2016/08/ngonewstw.html)
 
-[bookmaks wiki](https://github.com/twngo/ngonewstw/wiki) (雜亂待用的𠫞𠫞參考資料工具書，先放在這裏)
+[bookmaks wiki](https://github.com/twngo/ngonewstw/wiki) (雜亂待用的參考資料工具書，先放在這裏)
 
 
 
