@@ -1,4 +1,4 @@
-# ngonewstw
+### ngonewstw
 
 [台灣NGO訊息滙合推特帳號 @NGONewsTW](https://twitter.com/ngonewstw)
 
@@ -8,7 +8,8 @@
 
 [NGONewsTW推特帳號起源與操作說明](http://self.jxtsai.info/2016/08/ngonewstw.html)
 
-[bookmaks wiki](https://github.com/twngo/ngonewstw/wiki) (雜亂待用的參考資料工具書，先放在這裏)
-
+### 其它 NGO/NPO 名錄
+[聰明公益資訊平台](http://www.smartdonor.tw/)
+[igiving 公益網](https://www.igiving.org.tw)
 
 註：特別感謝 [@GovNewsTW](https://twitter.com/govnewstw) 先行者的啟發,故將本帳號之相關檔案以公共財資源釋出
