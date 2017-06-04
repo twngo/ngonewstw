@@ -13,4 +13,7 @@
 
 [igiving 公益網](https://www.igiving.org.tw)
 
-註：特別感謝 [@GovNewsTW](https://twitter.com/govnewstw) 先行者的啟發,故將本帳號之相關檔案以公共財資源釋出
+註：特別感謝 [@GovNewsTW](https://twitter.com/govnewstw) 先行者的啟發,
+
+#### License
+GPL v3
