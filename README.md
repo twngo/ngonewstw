@@ -2,9 +2,11 @@
 
 [台灣NGO訊息滙合推特帳號 @NGONewsTW](https://twitter.com/ngonewstw)
 
+另有利用IFTTT 同步推送到開源分散式社群平台 Mastodon 之帳號：https://g0v.social/@twngo
+
 [組織收集名錄](https://docs.google.com/spreadsheets/d/1BIPwaKGYTH_lwXFSKJi8P61Yaz1dKn9iO_UG5IWdu6M/edit?usp=sharing)
 
-[silk visualization](http://twngo.silk.co) 把 google spreadsheet silk.co 同步作視覺化展現
+~~[silk visualization](http://twngo.silk.co) 把 google spreadsheet silk.co 同步作視覺化展現
 
 [NGONewsTW推特帳號起源與操作說明](http://self.jxtsai.info/2016/08/ngonewstw.html)
 
