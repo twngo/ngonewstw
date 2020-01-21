@@ -8,7 +8,7 @@
 
 [NGONewsTW推特帳號起源與操作說明](http://self.jxtsai.info/2016/08/ngonewstw.html)
 
-[NGONewsTW推特帳號 2020 更近與內容種類說明]
+[NGONewsTW推特帳號 2020 更近與內容種類說明](https://to.twngo.xyz/01202020)
 
 ### 走過的痕跡
 
